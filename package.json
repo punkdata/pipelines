@@ -1,0 +1,22 @@
+{
+  "name": "pipelines",
+  "version": "0.0.1",
+  "description": "Test of sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkdata/pipelines.git"
+  },
+  "author": "Angel Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punkdata/pipelines/issues"
+  },
+  "homepage": "https://github.com/punkdata/pipelines#readme",
+  "dependencies": {
+    "@circleci/circleci-config-sdk": "^0.4.0"
+  }
+}
